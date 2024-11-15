@@ -14,39 +14,43 @@ This repository provides a comprehensive guide to using the **`macchanger`** too
 Ensure `macchanger` is installed on your system. Most Linux distributions include it by default. If not, install it using:
 
 ### Installation
-#### Debian/Ubuntu:
+#### Debian/Ubuntu/Kali:
 
     sudo apt update
     sudo apt install macchanger
 Fedora:
 
-sudo dnf install macchanger
+    sudo dnf install macchanger
 
 Arch:
 
-sudo pacman -S macchanger
+    sudo pacman -S macchanger
 
-Basic Usage
-1. Check Current MAC Address
+##Basic Usage
 
-sudo macchanger -s <interface>
+**Help**
 
-Example:
+    sudo macchanger --help
+**1. Check Current MAC Address**
 
-sudo macchanger -s eth0
-
-2. Assign a Random MAC Address
-
-sudo macchanger -r <interface>
-
-3. Change to a Specific MAC Address
-
-sudo macchanger -m <new_mac_address> <interface>
+    sudo macchanger -s <interface>
 
 Example:
 
-sudo macchanger -m 00:11:22:33:44:55 eth0
+    sudo macchanger -s eth0
 
-4. Restore Original MAC Address
+**2. Assign a Random MAC Address**
 
-sudo macchanger -p <interface>
+    sudo macchanger -r <interface>
+
+**3. Change to a Specific MAC Address**
+
+    sudo macchanger -m <new_mac_address> <interface>
+
+Example:
+
+    sudo macchanger -m 00:11:22:33:44:55 eth0
+
+**4. Restore Original MAC Address**
+
+    sudo macchanger -p <interface>
