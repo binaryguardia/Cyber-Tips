@@ -6,7 +6,6 @@ ProxyChains is a tool that forces applications to route their network traffic th
 
 If ProxyChains is not already installed, you can install it with:
 
-    ```bash
     sudo apt update
     sudo apt install proxychains4 -y
 ## Step 2: Edit ProxyChains Configuration
