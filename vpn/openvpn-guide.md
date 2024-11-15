@@ -20,6 +20,14 @@ If OpenVPN is not already installed on your system, you can install it with the 
   
 ## Step 3: Get VPNBook Username and Password
 
-VPNBook[https://www.vpnbook.com/freevpn] provides free usernames and passwords on their website. Go to VPNBook Free OpenVPN and note down the current username and password.
+[VPNBook](https://www.vpnbook.com/freevpn) provides free usernames and passwords on their website. Go to VPNBook Free OpenVPN and note down the current username and password.
 ## Step 3: Activate vpn 
     openvpn vpnfile.ovpn
+![image](https://github.com/user-attachments/assets/742b10ee-458c-45d9-9e6e-35827a810f8d)
+
+It asks for username and password go and get it from [VPNBook](https://www.vpnbook.com/freevpn).
+**To kill the vpn openvpn**
+
+    sudo killall openvpn
+**Reference:**
+[VPNBook](https://www.vpnbook.com/freevpn)
