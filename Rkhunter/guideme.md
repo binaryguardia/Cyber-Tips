@@ -59,6 +59,7 @@ rkhunter is easy to use and provides a variety of options for scanning and repor
 To perform a full system check:
 
     sudo rkhunter --check
+![image](https://github.com/user-attachments/assets/d3fceec1-d9e3-4775-a203-3dadb5d5d59d)
 
 ## Step 2: Review Scan Results
 
