@@ -12,7 +12,11 @@
 - Easy to use and beginner-friendly.
 
 ---
+## Dependencies
+You can download all dependencies with the following command or check if they are up to date.
 
+    sudo apt update && sudo apt install tar tor curl python3 python3-scapy network-manager
+    
 ## Installation
 
 To get started, clone the repository and navigate to its directory:
