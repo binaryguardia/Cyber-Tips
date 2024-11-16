@@ -1,6 +1,6 @@
 # Shodan.io: The Search Engine for the Internet of Things (IoT)
 
-**Warning: Try to use vpn or proxies before using it and  dont leave your fingerprints anywhere.**
+**Warning: Try to use vpn or proxies before using it and  don't leave your fingerprints anywhere.**
 
 **Shodan.io** is a search engine specifically designed for cybersecurity professionals, allowing users to discover devices, services, and vulnerabilities exposed to the internet. Unlike traditional search engines that index websites, Shodan indexes information about servers, webcams, routers, IoT devices, industrial control systems, and more.
 
