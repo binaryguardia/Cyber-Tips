@@ -42,8 +42,7 @@ This tool is for educational purposes only. Any unauthorized use of this softwar
 
 Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
-    sudo su
-    chmod +x install.sh
+    sudo chmod +x install.sh
     sudo ./install.sh
     python bee.py
 
