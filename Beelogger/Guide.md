@@ -59,6 +59,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 Run the main script:
 
     python2.7 bee.py
+![image](https://github.com/user-attachments/assets/619a11f0-c1bd-4e0b-96fc-2402580a9a62)
 
 Follow the prompts to:
     Enter your Gmail address and password (used to send logs).
