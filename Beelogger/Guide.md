@@ -44,7 +44,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
     sudo chmod +x install.sh
     sudo ./install.sh
-    python bee.py
+    python2.7 bee.py
 
 ### 3. Configure Gmail
    Use a Gmail account to send logs.
@@ -58,7 +58,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
 Run the main script:
 
-    python bee.py
+    python2.7 bee.py
 
 Follow the prompts to:
     Enter your Gmail address and password (used to send logs).
