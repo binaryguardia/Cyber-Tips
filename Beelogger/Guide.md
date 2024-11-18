@@ -31,7 +31,7 @@ This tool is for educational purposes only. Any unauthorized use of this softwar
 ## Installation and Setup
 
 ### 1. Clone the Repository
-    `
+    
     git clone https://github.com/4w4k3/BeeLogger.git
     cd BeeLogger
 ### 2. Install Required Dependencies
