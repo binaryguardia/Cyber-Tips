@@ -3,7 +3,9 @@
 **BeeLogger** is an open-source keylogger generator built in Python, designed for ethical hacking and cybersecurity education. It allows users to create Windows-compatible keylogger payloads that can monitor keystrokes and send logs via email.
 
 ---
-
+# This is not the official Beelogger repo.
+**If you face any issue kindly visit it's official website  [BeeLogger GitHub Repository](https://github.com/4w4k3/beelogger).**
+---
 ## ⚠️ **Disclaimer**
 
 This tool is for educational purposes only. Any unauthorized use of this software to compromise systems, invade privacy, or other unethical purposes is illegal. Use BeeLogger only on systems you own or have explicit permission to test. The creator and contributors of BeeLogger are not responsible for any misuse of this tool.
