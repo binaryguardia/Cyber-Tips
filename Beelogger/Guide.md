@@ -38,11 +38,16 @@ This tool is for educational purposes only. Any unauthorized use of this softwar
     cd BeeLogger
 ### 2. Install Required Dependencies
 
-**For Debian-based distributions:**
+## HOW TO INSTALL:
 
-    sudo apt update
-    sudo apt install wine python-pip -y
-    pip install pycrypto pynput
+Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
+
+    git clone https://github.com/4w4k3/BeeLogger.git
+    cd BeeLogger
+    sudo su
+    chmod +x install.sh
+    sudo ./install.sh
+    python bee.py
 
 ### 3. Configure Gmail
    Use a Gmail account to send logs.
