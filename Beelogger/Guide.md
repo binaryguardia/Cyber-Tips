@@ -85,7 +85,7 @@ Common Issues
 
 ## 🌐 Additional Resources
    
-  BeeLogger GitHub Repository(https://github.com/4w4k3/beelogger)
-  How to Install Wine
-  Cybersecurity Learning Platforms
+  [BeeLogger GitHub Repository](https://github.com/4w4k3/beelogger)
+  
+ [How to Install Wine](https://forums.kali.org/archived/showthread.php?25175-install-wine-on-kali-64bit-with-no-problems)
 
