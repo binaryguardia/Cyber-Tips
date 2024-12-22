@@ -25,4 +25,4 @@ Run applications through ProxyChains using the following syntax:
    
 proxychains4 [application] [arguments]
 ```
-   proxychains4 firefox cyberswipe.in
+   proxychains4 firefox
