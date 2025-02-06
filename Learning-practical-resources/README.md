@@ -10,7 +10,7 @@
 [Pentester Lab](https://pentesterlab.com)
 
 # CTF
-[Pico Ctf](https://www.picoctf.com)
+[Pico Ctf](https://play.picoctf.org)
 
 [Hackerone Ctf](https://ctf.hacker101.com/)
 
