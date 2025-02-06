@@ -14,4 +14,11 @@
 
 [Hackerone Ctf](ctf.hackerone.com)
 
+[Over the Wire](overthewire.com)
 
+[You all can check here for CTFs](https://ctfsites.github.io/)
+
+# Bug Hunting POC collections and resources
+[POC](https://drive.google.com/file/d/14w4gKn-fhbmMmx6JgjS5_cRYfv8-Vt37/view?usp=sharing)
+
+[Bug Bounty](bugbounty.com)
