@@ -1,20 +1,20 @@
 # Practical Learning websites
 [Hack The box](https://www.hackthebox.com/)
 
-[TryHackme](tryhackme.com)
+[TryHackme](https://www.tryhackme.com)
 
 [Hacksplaining](https://www.hacksplaining.com)
 
-[Portswigger](portswigger.net)
+[Portswigger](https://www.portswigger.net)
 
-[Pentester Lab](penetesterlab.com)
+[Pentester Lab](https://www.penetesterlab.com)
 
 # CTF
-[Pico Ctf](picoctf.com)
+[Pico Ctf](https://www.picoctf.com)
 
-[Hackerone Ctf](ctf.hackerone.com)
+[Hackerone Ctf](https://www.ctf.hackerone.com)
 
-[Over the Wire](overthewire.com)
+[Over the Wire](https://www.overthewire.com)
 
 [You all can check here for CTFs](https://ctfsites.github.io/)
 
