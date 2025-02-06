@@ -7,7 +7,7 @@
 
 [Portswigger](https://www.portswigger.net)
 
-[Pentester Lab](https://www.penetesterlab.com)
+[Pentester Lab](https://pentesterlab.com)
 
 # CTF
 [Pico Ctf](https://www.picoctf.com)
