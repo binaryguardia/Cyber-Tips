@@ -21,4 +21,4 @@
 # Bug Hunting POC collections and resources
 [POC](https://drive.google.com/file/d/14w4gKn-fhbmMmx6JgjS5_cRYfv8-Vt37/view?usp=sharing)
 
-[Bug Bounty](bugbounty.com)
+[Bug Bounty Hunting Search Engine](https://www.bugbountyhunting.com/)
