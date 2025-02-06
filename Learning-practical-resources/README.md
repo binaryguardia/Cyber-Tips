@@ -12,7 +12,7 @@
 # CTF
 [Pico Ctf](https://www.picoctf.com)
 
-[Hackerone Ctf](https://www.ctf.hackerone.com)
+[Hackerone Ctf](https://ctf.hacker101.com/)
 
 [Over the Wire](https://www.overthewire.com)
 
