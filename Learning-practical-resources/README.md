@@ -14,7 +14,7 @@
 
 [Hackerone Ctf](https://ctf.hacker101.com/)
 
-[Over the Wire](https://www.overthewire.com)
+[Over the Wire](https://overthewire.org)
 
 [You all can check here for CTFs](https://ctfsites.github.io/)
 
