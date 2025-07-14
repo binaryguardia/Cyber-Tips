@@ -22,8 +22,33 @@ sudo apt install android-tools-adb android-tools-fastboot
 ![image](https://github.com/user-attachments/assets/1d246d0f-d39f-4a8a-88a1-9d747c8148aa)
 
 ---
+## wireless debugging (Mobile side)
+1. First make sure to connect with same wifi and enable wireless debugging in your phone (*android*) in developer option
+   
+2.Click on *pair device with pairing code*
+note the ip, port and pairing code.
 
-## 🔧 Common ADB Commands
+![WhatsApp Image 2025-07-14 at 16 59 57_2df3477d](https://github.com/user-attachments/assets/17ba7086-9ddc-435a-ba38-29fc4a2ed857)
+
+
+3. Run these commands in your windows cmd *(no need for usb cable)*
+```
+./adb pair 192.168.x.x:port pairing-code
+
+```
+It will display device paired successfully
+
+4.Now connect with dibugger port use the following command
+
+![WhatsApp Image 2025-07-14 at 16 59 56_5e9b8556](https://github.com/user-attachments/assets/dd09dca1-41d5-40b7-ab75-6b4cab5f7c5d)
+
+````
+./adb connect 192.168.x.x:port
+````
+Your device will be connected without any error.
+
+
+# 🔧 Common ADB Commands
 | Command                                | Description                          | Linux              | Windows             |
 |----------------------------------------|--------------------------------------|--------------------|---------------------|
 | List devices                           | Check connected devices              | `adb devices`      | `./adb devices`     |
